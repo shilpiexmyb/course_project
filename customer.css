@@ -1,0 +1,154 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  
+}
+.main-header{
+    background-color:#2ecc71;
+    width: 102%;
+    height: 70px;
+    }
+    .main-nav__items{
+        display: flex;
+        margin-left: 1000px;
+    }
+    .main-nav__items li{
+       
+        margin-left: 59px;
+        list-style: none;
+        margin-top: -15px;
+        font-weight: bold;
+    }
+    .main-nav__items li a{
+        text-decoration: none;
+        color: black;
+    }
+.test__image-container img {
+    margin-right: 15px;
+}
+.test__image-container img {
+    width: 794px;
+    margin-left: -9px;
+}
+.test__info1{
+    margin-left: 30px;
+    margin-top: 200px;
+}
+.test__info2{
+    margin-right: 30px;
+    margin-top: 200px;
+}
+
+.main_brand {
+    text-decoration: none;
+    padding-top: 24px;
+    margin-left: 20px;
+}
+.main_brand a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.test:first-of-type {
+    margin-top: 96px;
+}
+.test {
+    font-size: 20px;
+    margin: 48px 0;
+}
+#customer-2.test {
+    text-align: right;
+}
+
+.test{
+    font-size: 20px;
+    margin: 48px 0;
+    display: flex;
+    font-size: 20px;
+    margin: 50px 0;
+    display: flex;
+    margin-right: -15px;
+}
+.test__image-container img{
+    width: 810px;
+    margin-left: -9px;
+
+
+}
+
+.test__name{
+    color:red;
+    margin-left: -3px;}
+    .test__name {
+        margin-left: -3px;
+    }
+    
+
+
+.test__subtitle{
+    font-size: 21px;
+    color: grey;
+
+}
+.tech-analysis.com  {
+    font-size: 21px;
+    color: grey;
+    text-decoration: none;
+    margin-top: 18px;
+    margin-left: 9px;
+  
+}
+.flex{
+    display: flex;
+}
+
+.test__image-container img{
+    margin-right: 30px;
+}
+.footer_nav{
+    background-color: black;
+    margin-top: 40px;
+    height: 90px;
+    width: 101%;
+    margin-left: -10px;
+}
+
+.footer_links {
+    display: flex;
+}
+.main_link1{
+    margin-left: 600px;
+    
+    margin-top: 35px;
+}
+.main_link2{
+    margin-left: 60px;
+    margin-top: 35px;
+}
+.main_link1 a{
+    text-decoration: none;
+    color:white;
+    font-size: 21px;
+}
+.main_link2 a{
+    text-decoration: none;
+    color:white;
+    font-size: 21px;
+}
+.footer{
+    width: 104%;
+    margin-left: -23px;
+}
+@media screen and (max-width: 800px) {
+     
+    #customer-1 .test__image-container1 img{
+        width:300px;
+        height: 300px;
+    }
+    #customer-1 .test__image-container2 img{
+        width:300px;
+        height: 300px;
+    }
+}

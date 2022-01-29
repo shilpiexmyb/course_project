@@ -1,0 +1,263 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.test_image-container{
+    margin-left: 14px;
+}
+
+
+
+.header{
+    background-color: #2ecc71;
+    height: 50px;
+    width: 100vw;
+}
+
+.plans{
+    margin-top: 739px;
+}
+
+.uHost {
+    color:black;
+   
+    padding-top: 16px;
+    margin-left: 30px;
+   
+}
+
+.uHost a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+.btn{
+    background-color: red;
+    
+    height: 27px;
+    width: 104px;
+    border: none;
+    border-radius: 8px;
+    margin-top: -10px;
+}
+   .nav_list a{
+       color: black;
+       font-weight: bold;
+       text-decoration: none;
+   } 
+
+.btn a{
+    color: white;
+    text-decoration: none;
+  
+}
+
+.image  img{
+   
+    width: 100%;
+    height: 736px;
+    
+}
+.freedom{
+    margin-top: -677px;
+    color: white;
+    margin-left: 30px;
+    font-size: 49px;
+}
+.navbar ul{
+    list-style: none;
+    display: flex;
+    margin-left: 994px;
+}
+.navbar ul li{
+    margin-right: 65px;
+    margin-top: -19px;
+}
+
+.title {
+    color: #2ddf5c;
+    text-align: center;
+    margin-top: 57px;
+    
+}
+.title1 {
+    color:green;
+    text-align: center;
+    margin-top: 57px;
+    
+}
+.button{
+    background-color: white;
+    border:2px solid #2ddf5c ;
+    width: 129px;
+    height: 30px;
+    border-radius: 20px;
+
+}
+.button a{
+text-decoration: none;
+color: #2ddf5c;
+
+}
+.hobby{
+    margin-top: 51px;
+}
+
+#product-overview h1 {
+    color: white;
+    font-family: 'Anton', sans-serif;
+}
+
+.list {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 44px;
+}
+
+.plan{
+    background: #d5ffdc;
+    text-align: center;
+    padding: 16px;
+    margin: -2px;
+    display: inline-block;
+    width: 31%;
+    vertical-align: middle;
+    height: 403px;
+}
+
+.plan_main {
+    background: #19b84c;
+    color: white;
+    height: 468px;
+}
+
+.Recommended {
+    background: white;
+    color: #19b84c;
+    padding: 8px;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    
+}
+
+ 
+
+.price {
+    color: #858585;margin-top: 23px;
+}
+
+.plan_main .plan__title {
+    color: white;
+}
+
+.plan_main .plan__price {
+    color: #0e4f1f;
+}
+
+.features {
+    list-style: none;
+    margin: 19px;
+    padding: 0;
+}
+
+.plan_feature {
+    margin: 8px 0;
+}
+.key_section{
+    margin-top: 102px;
+    background-color:#fd79a8 ;
+    padding: 4px;
+}
+#key-features {
+    background: #ff1b68;
+    margin-top: 80px;
+    padding: 16px;
+}
+
+#key-features .section-title {
+    color: white;
+    margin: 32px;
+  
+}
+.section-title{
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+
+}
+
+.key__list {
+    list-style: none;
+    margin: 42px;
+    padding: 0;
+    text-align: center;
+}
+
+.key-feature {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+}
+
+.key_image {
+    background: #ffcede;
+    width: 128px;
+    height: 128px;
+    border: 2px solid #424242;
+    border-radius: 50%;
+    margin: auto;
+}
+.key_image img{
+    width: 123px;
+    height: 124px;
+    border-radius: 141px;
+    margin-top: 0px;
+}
+
+.key__des {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+.footer_nav{
+    background-color: black;
+    margin-top: 40px;
+    height:90px;
+}
+
+.footer_links {
+    display: flex;
+}
+.main_link1{
+    margin-left: 600px;
+    
+    margin-top: 35px;
+}
+.main_link2{
+    margin-left: 60px;
+    margin-top: 35px;
+}
+.main_link1 a{
+    text-decoration: none;
+    color:white;
+    font-size: 21px;
+}
+.main_link2 a{
+    text-decoration: none;
+    color:white;
+    font-size: 21px;
+}
+@media screen and (max-width: 800px) {
+    .packages, .customers, .starthosting {
+      width: 100%; 
+  }
+}
